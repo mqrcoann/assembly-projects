@@ -1,0 +1,36 @@
+// Created with Visual MASM
+
+1  24  DISCARDABLE	"C:\\Users\\Marco Antonio\\Documents\\computacion-unistmo\\04ensamblador\\19-05-15\\RandomRacing\\Manifest.xml"
+
+#define IDB_KIRBY 1
+#define IDB_FLUFF 2
+#define IDB_GEMITA 3
+#define IDB_BRONTO 4
+#define IDB_KIRBY2 5
+#define IDB_FLUFF2 6
+#define IDB_GEMITA2 7
+#define IDB_BRONTO2 8
+#define IDB_PISTA 9 
+#define IDM_MENU 10
+#define IDM_NUEVO 11
+#define IDM_JUEGO 12
+#define IDM_ACERCA 13
+ 
+IDB_KIRBY BITMAP "Kirby.bmp"
+IDB_FLUFF BITMAP "FluffPrince.bmp"
+IDB_GEMITA BITMAP "Gemita.bmp"
+IDB_BRONTO BITMAP "Bronto.bmp"
+
+IDB_KIRBY2 BITMAP "Kirby2.bmp"
+IDB_FLUFF2 BITMAP "FluffPrince2.bmp"
+IDB_GEMITA2 BITMAP "Gemita2.bmp"
+IDB_BRONTO2 BITMAP "Bronto2.bmp"
+
+IDB_PISTA BITMAP "Pista.bmp"
+
+IDM_MENU MENUEX
+BEGIN
+	MENUITEM "&Nuevo", IDM_NUEVO
+	MENUITEM "&Juego", IDM_JUEGO 
+	MENUITEM "&Acerca", IDM_ACERCA
+END

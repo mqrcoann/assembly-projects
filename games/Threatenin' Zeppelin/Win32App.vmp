@@ -1,0 +1,64 @@
+{
+	"Version": 2,
+	"Project": {
+		"Name": "Win32App.exe",
+		"Id": "47847361-2639-4F6A-A1F8-F5C72C156D18",
+		"FileName": "C:\\Users\\Marco Antonio\\Documents\\computacion-unistmo\\04ensamblador\\19-05-24\\Threatenin' Zeppelin\\Win32App.vmp",
+		"Created": "25/05/2019 13:01:19",
+		"Type": "ptWin32",
+		"PreAssembleEventCommandLine": "",
+		"AssembleEventCommandLine": "",
+		"PostAssembleEventCommandLine": "",
+		"PreLinkEventCommandLine": "",
+		"LinkEventCommandLine": "",
+		"AdditionalLinkSwitches": "",
+		"AdditionalLinkFiles": "",
+		"PostLinkEventCommandLine": "",
+		"LibraryPath": "",
+		"OutputFolder": "C:\\Users\\Marco Antonio\\Documents\\computacion-unistmo\\04ensamblador\\19-05-24\\Threatenin' Zeppelin\\",
+		"OutputFile": "\"C:\\Users\\Marco Antonio\\Documents\\computacion-unistmo\\04ensamblador\\19-05-24\\Threatenin' Zeppelin\\Release\\Win32App.exe\"",
+		"SizeInBytes": 2834944,
+		"Build": true
+	},
+	"Files": [
+		{
+			"Id": "BF7BEF40-CA45-4F18-A73D-32C626C971EA",
+			"Name": "Manifest.xml",
+			"Created": "25/05/2019 13:01:19",
+			"Type": "pftManifest",
+			"Path": "C:\\Users\\Marco Antonio\\Documents\\computacion-unistmo\\04ensamblador\\19-05-24\\Threatenin' Zeppelin\\",
+			"IsOpen": false,
+			"AssembleFile": false,
+			"ChildFileRCId": "",
+			"ChildFileASMId": "",
+			"ParentFileId": "",
+			"OutputFile": ""
+		},
+		{
+			"Id": "F69B080F-C98E-49B4-B9ED-4229875A7DE4",
+			"Name": "Resource.rc",
+			"Created": "25/05/2019 13:01:19",
+			"Type": "pftRC",
+			"Path": "C:\\Users\\Marco Antonio\\Documents\\computacion-unistmo\\04ensamblador\\19-05-24\\Threatenin' Zeppelin\\",
+			"IsOpen": true,
+			"AssembleFile": true,
+			"ChildFileRCId": "",
+			"ChildFileASMId": "",
+			"ParentFileId": "",
+			"OutputFile": "\"C:\\Users\\Marco Antonio\\Documents\\computacion-unistmo\\04ensamblador\\19-05-24\\Threatenin' Zeppelin\\Release\\Resource.res\""
+		},
+		{
+			"Id": "FE2BC361-A02E-4BC9-A5CE-F8BC96087678",
+			"Name": "Assembly1.asm",
+			"Created": "25/05/2019 13:01:19",
+			"Type": "pftASM",
+			"Path": "C:\\Users\\Marco Antonio\\Documents\\computacion-unistmo\\04ensamblador\\19-05-24\\Threatenin' Zeppelin\\",
+			"IsOpen": true,
+			"AssembleFile": true,
+			"ChildFileRCId": "",
+			"ChildFileASMId": "",
+			"ParentFileId": "",
+			"OutputFile": "\"C:\\Users\\Marco Antonio\\Documents\\computacion-unistmo\\04ensamblador\\19-05-24\\Threatenin' Zeppelin\\Release\\Assembly1.obj\""
+		}
+	]
+}

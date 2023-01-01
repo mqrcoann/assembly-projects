@@ -1,0 +1,64 @@
+{
+	"Version": 2,
+	"Project": {
+		"Name": "Win32App.exe",
+		"Id": "B0DF66BD-022C-4F98-A3F4-A7EE1207958E",
+		"FileName": "C:\\Users\\Marco Antonio\\Documents\\computacion-unistmo\\04ensamblador\\19-06-11\\Buscaminas\\Win32App.vmp",
+		"Created": "07/06/2019 10:33:37",
+		"Type": "ptWin32",
+		"PreAssembleEventCommandLine": "",
+		"AssembleEventCommandLine": "",
+		"PostAssembleEventCommandLine": "",
+		"PreLinkEventCommandLine": "",
+		"LinkEventCommandLine": "",
+		"AdditionalLinkSwitches": "",
+		"AdditionalLinkFiles": "",
+		"PostLinkEventCommandLine": "",
+		"LibraryPath": "",
+		"OutputFolder": "C:\\Users\\Marco Antonio\\Documents\\computacion-unistmo\\04ensamblador\\19-06-11\\Buscaminas\\",
+		"OutputFile": "\"C:\\Users\\Marco Antonio\\Documents\\computacion-unistmo\\04ensamblador\\19-06-11\\Buscaminas\\Release\\Win32App.exe\"",
+		"SizeInBytes": 17408,
+		"Build": true
+	},
+	"Files": [
+		{
+			"Id": "67106424-067D-4C39-8157-2BC0CB0363FB",
+			"Name": "Manifest.xml",
+			"Created": "07/06/2019 10:33:37",
+			"Type": "pftManifest",
+			"Path": "C:\\Users\\Marco Antonio\\Documents\\computacion-unistmo\\04ensamblador\\19-06-11\\Buscaminas\\",
+			"IsOpen": false,
+			"AssembleFile": false,
+			"ChildFileRCId": "",
+			"ChildFileASMId": "",
+			"ParentFileId": "",
+			"OutputFile": ""
+		},
+		{
+			"Id": "95BE80B4-2C5A-4B24-A65D-EBBEC042552F",
+			"Name": "Resource.rc",
+			"Created": "07/06/2019 10:33:37",
+			"Type": "pftRC",
+			"Path": "C:\\Users\\Marco Antonio\\Documents\\computacion-unistmo\\04ensamblador\\19-06-11\\Buscaminas\\",
+			"IsOpen": true,
+			"AssembleFile": true,
+			"ChildFileRCId": "",
+			"ChildFileASMId": "",
+			"ParentFileId": "",
+			"OutputFile": "\"C:\\Users\\Marco Antonio\\Documents\\computacion-unistmo\\04ensamblador\\19-06-11\\Buscaminas\\Release\\Resource.res\""
+		},
+		{
+			"Id": "EE856C4E-173E-4420-9CD1-019CC65A7FDC",
+			"Name": "Assembly1.asm",
+			"Created": "07/06/2019 10:33:37",
+			"Type": "pftASM",
+			"Path": "C:\\Users\\Marco Antonio\\Documents\\computacion-unistmo\\04ensamblador\\19-06-11\\Buscaminas\\",
+			"IsOpen": true,
+			"AssembleFile": true,
+			"ChildFileRCId": "",
+			"ChildFileASMId": "",
+			"ParentFileId": "",
+			"OutputFile": "\"C:\\Users\\Marco Antonio\\Documents\\computacion-unistmo\\04ensamblador\\19-06-11\\Buscaminas\\Release\\Assembly1.obj\""
+		}
+	]
+}

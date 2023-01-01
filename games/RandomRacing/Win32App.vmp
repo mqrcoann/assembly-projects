@@ -1,0 +1,64 @@
+{
+	"Version": 2,
+	"Project": {
+		"Name": "Win32App.exe",
+		"Id": "D80806AD-8CA4-4D19-9FD8-BBDB461A5DC8",
+		"FileName": "C:\\Users\\Marco Antonio\\Documents\\computacion-unistmo\\04ensamblador\\19-05-15\\RandomRacing\\Win32App.vmp",
+		"Created": "17/05/2019 10:33:28",
+		"Type": "ptWin32",
+		"PreAssembleEventCommandLine": "",
+		"AssembleEventCommandLine": "",
+		"PostAssembleEventCommandLine": "",
+		"PreLinkEventCommandLine": "",
+		"LinkEventCommandLine": "",
+		"AdditionalLinkSwitches": "",
+		"AdditionalLinkFiles": "",
+		"PostLinkEventCommandLine": "",
+		"LibraryPath": "",
+		"OutputFolder": "C:\\Users\\Marco Antonio\\Documents\\computacion-unistmo\\04ensamblador\\19-05-15\\RandomRacing\\",
+		"OutputFile": "",
+		"SizeInBytes": 1114112,
+		"Build": true
+	},
+	"Files": [
+		{
+			"Id": "9908F870-4CE1-4D7E-A943-CF7F4C307EBC",
+			"Name": "Manifest.xml",
+			"Created": "17/05/2019 10:33:28",
+			"Type": "pftManifest",
+			"Path": "C:\\Users\\Marco Antonio\\Documents\\computacion-unistmo\\04ensamblador\\19-05-15\\RandomRacing\\",
+			"IsOpen": false,
+			"AssembleFile": false,
+			"ChildFileRCId": "",
+			"ChildFileASMId": "",
+			"ParentFileId": "",
+			"OutputFile": ""
+		},
+		{
+			"Id": "030E4B3F-15E6-48A8-AE38-E0FB27129C1B",
+			"Name": "Assembly1.asm",
+			"Created": "17/05/2019 10:33:28",
+			"Type": "pftASM",
+			"Path": "C:\\Users\\Marco Antonio\\Documents\\computacion-unistmo\\04ensamblador\\19-05-15\\RandomRacing\\",
+			"IsOpen": false,
+			"AssembleFile": true,
+			"ChildFileRCId": "",
+			"ChildFileASMId": "",
+			"ParentFileId": "",
+			"OutputFile": ""
+		},
+		{
+			"Id": "35DBFBF2-2F6F-495E-BE2E-70F8A2A7BBEE",
+			"Name": "Resource.rc",
+			"Created": "17/05/2019 10:33:28",
+			"Type": "pftRC",
+			"Path": "C:\\Users\\Marco Antonio\\Documents\\computacion-unistmo\\04ensamblador\\19-05-15\\RandomRacing\\",
+			"IsOpen": false,
+			"AssembleFile": true,
+			"ChildFileRCId": "",
+			"ChildFileASMId": "",
+			"ParentFileId": "",
+			"OutputFile": ""
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"Version": 2,
+	"Group": {
+		"Name": "ProjectGroup1",
+		"Id": "F91F8464-7E80-44C6-B1DE-1FB52636614A",
+		"Created": "07/06/2019 10:30:32",
+		"FileName": "C:\\Users\\Marco Antonio\\Documents\\computacion-unistmo\\04ensamblador\\19-06-11\\Buscaminas\\ProjectGroup1.vmg",
+		"SelectedProjectId": "B0DF66BD-022C-4F98-A3F4-A7EE1207958E",
+		"LastFileOpenId": "EE856C4E-173E-4420-9CD1-019CC65A7FDC",
+		"Projects": [
+			{
+				"Id": "B0DF66BD-022C-4F98-A3F4-A7EE1207958E",
+				"Name": "Win32App.exe",
+				"FileName": "C:\\Users\\Marco Antonio\\Documents\\computacion-unistmo\\04ensamblador\\19-06-11\\Buscaminas\\Win32App.vmp"
+			}
+		],
+		"BuildOrder": [
+			{
+				"Id": "B0DF66BD-022C-4F98-A3F4-A7EE1207958E"
+			}
+		]
+	}
+}

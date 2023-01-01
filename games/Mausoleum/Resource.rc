@@ -1,0 +1,69 @@
+// Created with Visual MASM
+
+1  24  DISCARDABLE	"C:\\Users\\Marco Antonio\\Documents\\computacion-unistmo\\04ensamblador\\19-06-04\\Mausoleum\\Manifest.xml"
+
+#define IDB_CUPHEAD  1
+#define IDB_CUPHEAD2 2
+#define IDB_GHOST1   3
+#define IDB_GHOST2   4
+#define IDB_GHOST3   5
+#define IDB_GHOST4   6
+#define IDB_GHOST5   7
+#define IDB_GHOST6   8
+#define IDB_GHOST7   9
+#define IDB_GHOST8   10
+#define IDM_MENU     11
+#define IDM_NUEVO    12
+#define IDM_JUEGO    13
+#define IDM_ACERCA   14
+
+#define IDB_FUEGO1   15
+#define IDB_FUEGO2   16
+#define IDB_FUEGO3   17
+#define IDB_FUEGO4   18
+#define IDB_FUEGO5   19
+#define IDB_FUEGO6   20
+#define IDB_FUEGO7   21
+#define IDB_FUEGO8   22
+#define IDB_FUEGO9   23
+#define IDB_FUEGO10  24
+#define IDB_FUEGO11  25
+#define IDB_FUEGO12  26
+
+#define IDB_FONDO1   100
+#define IDB_FONDO2   101
+
+IDB_CUPHEAD   BITMAP "Cuphead.bmp"
+IDB_CUPHEAD2  BITMAP "Cuphead2.bmp"
+IDB_GHOST1    BITMAP "Ghost1.bmp"
+IDB_GHOST2    BITMAP "Ghost2.bmp"
+IDB_GHOST3    BITMAP "Ghost3.bmp"
+IDB_GHOST4    BITMAP "Ghost4.bmp"
+IDB_GHOST5    BITMAP "Ghost5.bmp"
+IDB_GHOST6    BITMAP "Ghost6.bmp"
+IDB_GHOST7    BITMAP "Ghost7.bmp"
+IDB_GHOST8    BITMAP "Ghost8.bmp"
+IDB_FUEGO1    BITMAP "Fuego1.bmp"
+IDB_FUEGO2    BITMAP "Fuego2.bmp"
+IDB_FUEGO3    BITMAP "Fuego3.bmp"
+IDB_FUEGO4    BITMAP "Fuego4.bmp"
+IDB_FUEGO5    BITMAP "Fuego5.bmp"
+IDB_FUEGO6    BITMAP "Fuego6.bmp"
+IDB_FUEGO7    BITMAP "Fuego7.bmp"
+IDB_FUEGO8    BITMAP "Fuego8.bmp"
+IDB_FUEGO9    BITMAP "Fuego9.bmp"
+IDB_FUEGO10   BITMAP "Fuego10.bmp"
+IDB_FUEGO11   BITMAP "Fuego11.bmp"
+IDB_FUEGO12   BITMAP "Fuego12.bmp"
+
+
+IDB_FONDO1    BITMAP "Fondo.bmp"
+IDB_FONDO2    BITMAP "Fondo2.bmp"
+
+
+IDM_MENU MENUEX
+BEGIN
+	MENUITEM "&Nuevo", IDM_NUEVO
+	MENUITEM "&Juego", IDM_JUEGO 
+	MENUITEM "&Acerca", IDM_ACERCA
+END
